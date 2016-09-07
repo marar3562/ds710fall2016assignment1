@@ -1,8 +1,18 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. Robert Margherio
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Rob Margherio
+2. I currently live in Cedar Falls, Iowa working for John Deere as an engineer under the Large Tractor Product Test and Evaluation team. 
+	I have been working with telematics data since 2013 at John Deere and have loved working in this fast growing field. 
+	Machine data has lots of information hidden with it that can help our customers, dealers and our company save time and money. 
+	I am hoping through this program to learn the software and concepts needed to help extract those insights within our ever growing data set.
+3.  I used Matlab throughout college in multiple classes (two specifically for Matlab). 
+	I have been using VBA and Python for a current project at work over the last 5 months. I am self-taught in these languages but 
+	believe I am at a “Fair Understanding” level for Python and at a “Little Knowledge” level for VBA. The main coding I do on a day
+	to day basis is within Aginity software writing custom SQL code. We use SQL to pull data in many different ways and create Tableau reports off
+	of this information. I have been using SQL almost daily for 3.5 years now. 
+4.  I took one class in college specifically around Statistics; however, other engineering courses did talk about basic statistics from time 
+	to time. I use basic Statistics verbiage and calculations at work most days.  
+5.  No other experiences other than what I noted above on Python.
+6.  I hope to broaden my skills in Python coding. I know the basics but hope to learn how to do more advanced coding that can be used in 
+	in my day to day job. I also look forward to learning the basics in R that will lead to understanding its statistical power
+	for data science. 
+7.  I look forward to the class and usually enjoy learning new coding languages and techniques!
